@@ -38,7 +38,7 @@ Rosalia Baldassarre
 # Moodboard
 ![modboard-domaine](https://github.com/user-attachments/assets/7fd91091-c398-4a9a-a12c-bae735d35293)
 # Maquette
-
+![Ken-2025-12-14](https://github.com/user-attachments/assets/2872e93d-efea-43cb-a0fc-39b8db2fd325)
 # Étapes de production
 ![storyboard](https://github.com/user-attachments/assets/c6ea1624-1f11-4a6e-840b-4ba9186d35df)
 ![tournage](https://github.com/user-attachments/assets/72020e15-8100-4efa-93a8-2a6d80ae2217)
