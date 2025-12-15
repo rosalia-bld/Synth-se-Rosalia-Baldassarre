@@ -41,6 +41,7 @@ Rosalia Baldassarre
 ![modboard-domaine](https://github.com/user-attachments/assets/7fd91091-c398-4a9a-a12c-bae735d35293)
 # Maquette
 <img width="1024" height="1536" alt="ken2" src="https://github.com/user-attachments/assets/e59315c3-f6f5-4b93-901f-d3552330b62f" />
+
 ![Ken-2025-12-14](https://github.com/user-attachments/assets/2872e93d-efea-43cb-a0fc-39b8db2fd325)
 # Étapes de production
 ![storyboard](https://github.com/user-attachments/assets/c6ea1624-1f11-4a6e-840b-4ba9186d35df)
